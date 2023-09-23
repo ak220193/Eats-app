@@ -1,12 +1,16 @@
-import Navbar from "./components/Navbar";
-import Herobanner from "./components/Herobanner";
+import React from 'react';
+import Navbar from './components/Navbar';
+import Herobanner from './components/Herobanner';
 
+import Quickdelivery from './components/Quickdelivery';
 
 function App() {
   return (
     <div className="App">
-     <Navbar />
-     <Herobanner />
+      <Navbar />
+      <Herobanner />
+      <Quickdelivery />
+     
     </div>
   );
 }
