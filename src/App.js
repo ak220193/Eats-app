@@ -6,6 +6,8 @@ import Toppics from "./components/Toppics";
 import Meal from "./components/Meal";
 import Categories from "./components/Categories";
 import Newsletter from './components/Newsletter';
+import Footer from './components/Footer';
+
 
 
 
@@ -19,6 +21,7 @@ function App() {
       <Meal />
       <Categories />
       <Newsletter />
+      <Footer />
      
     </div>
   );

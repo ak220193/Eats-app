@@ -16,10 +16,10 @@ const Navbar = () => {
           <AiOutlineMenu size={35} />
         </div>
         <h1 className='text-2xl sm:text-3xl lg:text-4xl px-1 mx-2 '>
-          Spicy <span className='font-bold text-orange-700'> Bistro </span>
+          Spicy <span className='font-bold text-orange-500'> Bistro </span>
         </h1>
         <div className='hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]'>
-          <p className='bg-orange-700 text-white rounded-full p-2 font-bold'> Dine-in </p>
+          <p className='bg-orange-500 text-white rounded-full p-2 font-bold'> Dine-in </p>
           <p className='p-2 font-bold'> Take-Away </p>
         </div>
       </div>
@@ -33,7 +33,7 @@ const Navbar = () => {
         />
       </div>
 
-      <button className='bg-orange-700 text-white hidden md:flex items-center py-2 rounded-full'>
+      <button className='bg-orange-500 text-white hidden md:flex items-center py-2 rounded-full border-none'>
         <BsFillCartFill size={20} /> Cart
       </button>
 
@@ -59,7 +59,7 @@ const Navbar = () => {
           size={35}
         />
         <h2 className='text-2xl p-4 '>
-          Spicy <span className='text-orange-700 font-bold'> Bistro </span>{' '}
+          Spicy <span className='text-orange-500 font-bold'> Bistro </span>{' '}
         </h2>
         <nav>
           <ul className='flex flex-col p-4 text-gray-900'>
