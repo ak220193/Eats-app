@@ -75,7 +75,7 @@ export const mealData = [
     category: 'pizza',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/cheeseless_pizza_bkuecz.jpg',
-    price: '$200',
+    price: '₹200',
   },
   {
     id: 6,
@@ -83,7 +83,7 @@ export const mealData = [
     category: 'pizza',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324455/NetflixApp/Supreme_Pizza_jtvkj8.jpg',
-    price: '$300',
+    price: '₹300',
   },
   {
     id: 7,
@@ -91,7 +91,7 @@ export const mealData = [
     category: 'pizza',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/pepperoni_pizza_axwdat.jpg',
-    price: '$100',
+    price: '₹100',
   },
   {
     id: 8,
@@ -99,7 +99,7 @@ export const mealData = [
     category: 'pizza',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672324456/NetflixApp/chinese_pizza_kgnbo1.jpg',
-    price: '$140',
+    price: '₹140',
   },
   {
     id: 8,
@@ -107,7 +107,7 @@ export const mealData = [
     category: 'Salad',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323870/NetflixApp/African_Salad_s7vgxn.png',
-    price: '$140',
+    price: '₹140',
   },
   {
     id: 9,
@@ -115,7 +115,7 @@ export const mealData = [
     category: 'salad',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/kale_salad_ogune3.jpg',
-    price: '$300',
+    price: '₹300',
   },
   {
     id: 10,
@@ -123,7 +123,7 @@ export const mealData = [
     category: 'salad',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323859/NetflixApp/caesar-salad-with-tuna-30216-1_noflfd.jpg',
-    price: '$300',
+    price: '₹300',
   },
   {
     id: 11,
@@ -131,7 +131,7 @@ export const mealData = [
     category: 'salad',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323860/NetflixApp/loaded_salad_qq5jup.jpg',
-    price: '$200',
+    price: '₹200',
   },
   {
     id: 12,
@@ -139,7 +139,7 @@ export const mealData = [
     category: 'chiken',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672323737/NetflixApp/chiken_shawarma_c0ysna.jpg',
-    price: '$100',
+    price: '₹100',
   },
   {
     id: 13,
@@ -147,7 +147,7 @@ export const mealData = [
     category: 'chicken',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/chicken-wings_lv3zc9.jpg',
-    price: '$100',
+    price: '₹100',
   },
   {
     id: 14,
@@ -155,7 +155,7 @@ export const mealData = [
     category: 'chicken',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322922/NetflixApp/roast-chicken_nrc6r8.jpg',
-    price: '$300',
+    price: '₹300',
   },
   {
     id: 15,
@@ -163,7 +163,7 @@ export const mealData = [
     category: 'chicken',
     image:
       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672322923/NetflixApp/chicken_tenders_quel6y.jpg',
-    price: '$100',
+    price: '₹100',
   },
 
 ];

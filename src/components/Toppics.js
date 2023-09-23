@@ -7,7 +7,7 @@ import "@splidejs/react-splide/css";
 const Toppics = () => {
     return (
         <div className='header'>
-            <h1 className='text-orange-600 font-bold text-center py-2'>Most Trending Items</h1>
+            <h1 className='text-orange-600  m-auto  text-2xl font-bold text-center py-2'>Most Trending Items</h1>
             <div className='hidden lg:flex max-w-[1520px] m-auto py-2 px-2'>
                 <Splide options={{ perPage: 4, gap: "0.5rem", grag: 'free' , arrows:false}}>
                     {topPicks.map((item) => {
