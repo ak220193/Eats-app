@@ -5,6 +5,8 @@ import Quickdelivery from './components/Quickdelivery';
 import Toppics from "./components/Toppics";
 import Meal from "./components/Meal";
 import Categories from "./components/Categories";
+import Newsletter from './components/Newsletter';
+
 
 
 function App() {
@@ -16,6 +18,7 @@ function App() {
       <Toppics />
       <Meal />
       <Categories />
+      <Newsletter />
      
     </div>
   );
